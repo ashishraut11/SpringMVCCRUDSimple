@@ -9,7 +9,12 @@ import com.mahagan.beans.Emp;
   
 public class EmpDao {  
 JdbcTemplate template;  
-  
+
+
+
+
+
+
 public void setTemplate(JdbcTemplate template) {  
     this.template = template;  
 }  
