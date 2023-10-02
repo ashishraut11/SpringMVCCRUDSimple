@@ -9,8 +9,21 @@ import com.mahagan.beans.Emp;
   
 public class EmpDao {  
 JdbcTemplate template;  
+/*ertertgthgxgfxgxg
+* ghxhxfg
+* xfghxfghxgh
+* * fnxfg*/
 
 
+    //dfghj
+    /*
+    * herhkebvyrfxsrtcfcxyhf
+    * blugvghff
+    *
+    *
+    * hvyifiyg
+    *
+    * vgcvkhygit*/
 
 
 
